@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/AtonCode/AtonCode/">
-    [![My Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=ATONCODE)](https://github.com/ATONCODE/github-contribution-stats/)
+    <img width="495px" alt="meganetaaan's github stats" src=" https://github-readme-stats.vercel.app/api?username=ATONCODE&show_icons=true&count_private=true"/>
   </a>
 </p>
