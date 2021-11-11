@@ -36,9 +36,6 @@
         <a href="https://twitter.com/AtonOverride" target="_blank">
             <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">
         </a>
-        <a href="https://instagram.com/alejandrosacristanleal" target="_blank">
-            <img alt="Instagram" src="https://img.shields.io/badge/-INSTAGRAM-critical?&style=for-the-badge&logo=instagram&logoColor=white">
-        </a>
         <a href="https://www.discord.com/channels/@Override#3711" target="_blank">
             <img alt="Discord" src="https://img.shields.io/badge/-DISCORD-darkblue?&style=for-the-badge&logo=discord&logoColor=white">
         </a>
