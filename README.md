@@ -1,17 +1,17 @@
 <p align="center">＼＼\ HELLO HELLO KONNICHIWA!! /／／ 👋 </p>
 
-<p align="center">
-Here are some ideas to get you started:
+<div align="center">
+<p> Here are some ideas to get you started:</p> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-</p>
+  <p> - 🔭 I’m currently working on ...</p> 
+  <p> - 🌱 I’m currently learning ...</p> 
+  <p> - 👯 I’m looking to collaborate on ...</p> 
+  <p> - 🤔 I’m looking for help with ...</p> 
+  <p> - 💬 Ask me about ...</p> 
+  <p> - 📫 How to reach me: ...</p> 
+  <p> - 😄 Pronouns: ...</p> 
+  <p> - ⚡ Fun fact: ...</p> 
+</div>
 
 <p align="center">
   <a href="https://github.com/AtonCode/AtonCode/">
