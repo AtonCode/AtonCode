@@ -1,4 +1,4 @@
-### Hi there 👋
+<p align="center"> ### ＼＼\ HELLO HELLO KONNICHIWA!! /／／ 👋 </p>
 
 Here are some ideas to get you started:
 
