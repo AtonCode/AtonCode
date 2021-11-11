@@ -13,10 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 </p>
 
-<p align="center">
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?ATONCODE=ATONCODE&count_private=true&theme=react&showicons=true)]()
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ATONCODE&langs_count=5&theme=react)]()
-
 [![My Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=ATONCODE)](https://github.com/ATONCODE/github-contribution-stats/)
+<p align="center">
+  <a href="https://github.com/AtonCode/AtonCode/">
+    <img width="495px" alt="meganetaaan's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATONCODE&langs_count=5&theme=react"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/AtonCode/AtonCode/">
+    <img width="495px" alt="meganetaaan's github stats" src="https://github.com/ATONCODE/github-contribution-stats/"/>
+  </a>
 </p>
