@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/AtonCode/AtonCode/">
-    <img width="300px" alt="meganetaaan's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATONCODE&langs_count=5&theme=react"/>
+    <img width="450px" alt="meganetaaan's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATONCODE&langs_count=5&theme=react"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/AtonCode/AtonCode/">
-    <img width="300px" alt="meganetaaan's github stats" src=" https://github-readme-stats.vercel.app/api?username=ATONCODE&show_icons=true&count_private=true"/>
+    <img width="450px" alt="meganetaaan's github stats" src=" https://github-readme-stats.vercel.app/api?username=ATONCODE&show_icons=true&count_private=true"/>
   </a>
 </p>
