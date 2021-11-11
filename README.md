@@ -1,14 +1,5 @@
 ### Hi there 👋
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?ATONCODE=ATONCODE&count_private=true&theme=react&showicons=true)]()
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ATONCODE&langs_count=5&theme=react)]()
-
-[![My Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=ATONCODE)](https://github.com/ATONCODE/github-contribution-stats/)
-
-
-**AtonCode/AtonCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -20,3 +11,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?ATONCODE=ATONCODE&count_private=true&theme=react&showicons=true)]()
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ATONCODE&langs_count=5&theme=react)]()
+
+[![My Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=ATONCODE)](https://github.com/ATONCODE/github-contribution-stats/)
