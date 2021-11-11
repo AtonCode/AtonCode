@@ -1,4 +1,4 @@
-<p align="center"> ### ＼＼\ HELLO HELLO KONNICHIWA!! /／／ 👋 </p>
+#<p align="center">＼＼\ HELLO HELLO KONNICHIWA!! /／／ 👋 </p>
 
 Here are some ideas to get you started:
 
