@@ -1,24 +1,23 @@
 <h1/><p align="center">＼＼\ HELLO HELLO KONNICHIWA!! /／／ 👋 </p>
 
 <div align="center">
-  <p align="center">
+  
   <a href="https://github.com/AtonCode/AtonCode/">
-    <img width="450px" alt="ATONcoDE's github stats" src=" https://arielrdavis.com/The-New-York-Times-5"/>
+    <img width="350px" alt="ATONcoDE's github stats" src="https://payload.cargocollective.com/1/12/412619/14131745/Amerihealth_Fullpage_final2-copy_1000.jpg"/>
   </a>
-</p>
+
 </div>
 
-<p align="center">
+<div align="center">
+ 
   <a href="https://github.com/AtonCode/AtonCode/">
-    <img width="450px" alt="meganetaaan's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATONCODE&langs_count=5&theme=react"/>
+    <img width="350px" alt="meganetaaan's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATONCODE&langs_count=5&theme=react"/>
   </a>
-</p>
+  <a href="https://github.com/AtonCode/AtonCode/">
+    <img width="350px" alt="meganetaaan's github stats" src=" https://github-readme-stats.vercel.app/api?username=ATONCODE&show_icons=true&count_private=true"/>
+  </a>
 
-<p align="center">
-  <a href="https://github.com/AtonCode/AtonCode/">
-    <img width="450px" alt="meganetaaan's github stats" src=" https://github-readme-stats.vercel.app/api?username=ATONCODE&show_icons=true&count_private=true"/>
-  </a>
-</p>
+</div>
 
 <div id="contact" align="center" >
         <h3>
