@@ -24,12 +24,3 @@
 
 <p><p/>
 <p><p/>
-
-<div id="contact" align="center">
-        
-  <p>Contact me! <p/>
-            
-        <a href="https://twitter.com/AtonOverride" target="_blank">
-            <img alt="Twitter AtonCode" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">
-        </a>
-  </div>
