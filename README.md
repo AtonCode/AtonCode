@@ -1,4 +1,4 @@
-<h1><p align="center">＼＼\ HELLO HELLO KONNICHIWA!! /／／ 👋 </p><h1/>
+<h1><p align="center">👋 HOLA HELLO KONNICHIWA!! 👋 </p><h1/>
 
 <div align="center">
   <a href="https://arielrdavis.com">
